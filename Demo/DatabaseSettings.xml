@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>French_CI_AS</Collation>
+  <ServerVersion>Sql2016</ServerVersion>
+  <ServerName>ARGON2556\SQLEXPRESS</ServerName>
+  <DatabaseName>AAMRP_DEMO_MAKER</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
